@@ -1,0 +1,10 @@
+yaml
+transformers
+vllm
+numpy
+torch
+unsloth
+datasets
+trl
+pandas
+wandb
